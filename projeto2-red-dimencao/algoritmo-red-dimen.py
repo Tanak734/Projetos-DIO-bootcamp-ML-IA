@@ -4,8 +4,7 @@ from pathlib import Path
 
 # definindo uma constante para o caminho da imagem
 
-CAMINHO_IMAGEM = r"C:\Users\Felip\code\estudo\Machine_Learning_IA\Arquivos_aulas\projeto1-red-dimencao\imagens-algoritmo-py\balao2.jpg"
-# CAMINHO_IMAGEM = r"C:\Users\Felip\code\estudo\Machine_Learning_IA\Arquivos_aulas\projeto1-red-dimencao\imagens-algoritmo-py\lena.png"
+CAMINHO_IMAGEM = ...
 
 
 #abrindo a imagem

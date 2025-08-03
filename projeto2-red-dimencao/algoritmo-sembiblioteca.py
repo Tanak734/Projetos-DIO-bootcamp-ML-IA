@@ -2,7 +2,7 @@
 FEITO SEM NENHUMA BIBLIOTECA, mas nao funcionou, fiz junto com IA e fiz outro que funciona
 '''
 
-ARQUIVO_IMG = r"C:\Users\Felip\code\estudo\Machine_Learning_IA\Arquivos_aulas\projeto1-red-dimencao\imagens-algoritmo-py\ppm\balao2.ppm"
+ARQUIVO_IMG = ...
 
 with open(ARQUIVO_IMG, 'rb') as arquivo:
     # Lê tipo
