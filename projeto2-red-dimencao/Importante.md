@@ -1,0 +1,1 @@
+# eu usei uma biblioteca mais simples (pillow), passei 2 dias tentando criar um algoritmo na mao, mas nao consegui e tambem nao achei nada sem bibliotecas. Usei a biblioteca pois nao tenho conhecimento em como fazer a manipulação de imagem manualmente com um algoritmo comum
