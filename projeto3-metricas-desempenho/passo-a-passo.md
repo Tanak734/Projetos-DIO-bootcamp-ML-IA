@@ -1,0 +1,1 @@
+# Usei 3 biblitecas, uma para criar as matrizes (numpy), outra para gerar valores aleatorios (secrets) e outra para exibicao grafica (matplotlib). Alem disso usei IA para criar a parte de mat plot lib que achei util para exibir os valores
