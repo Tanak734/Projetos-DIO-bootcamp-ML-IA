@@ -32,7 +32,7 @@ imagem_tc = imagem.convert('L')
 
 #--------------------------------------------------------------
 # convertendo a imagem para tons de preto e branco atravez de binarização
-limiar = 130.779585 # valor do ponto medio entre o preto (0) e o branco (255)
+limiar = 134.779585 # valor do ponto medio entre o preto (0) e o branco (255)
 
 '''
 função que faz a conversão de valores 
